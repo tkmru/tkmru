@@ -6,7 +6,7 @@
   - SECCON 2015 Finals
   - Google Summer of Code 2017 Metasploit Project
   - Black Hat USA Arsenal 2020 Speaker
-  - CODE BLUE　Bluebox 2020 Speaker
+  - CODE BLUE Bluebox 2020 Speaker
   - Black Hat USA Arsenal 2021 Speaker
 
 
