@@ -7,6 +7,7 @@
   - Google Summer of Code 2017 Metasploit Project
   - Black Hat USA Arsenal 2020 Speaker
   - CODE BLUE Bluebox 2020 Speaker
+  - IPA Security camp 2020 Instructor
   - Black Hat USA Arsenal 2021 Speaker
 
 
