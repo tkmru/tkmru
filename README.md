@@ -9,6 +9,7 @@
   - CODE BLUE Bluebox 2020 Speaker
   - IPA Security camp 2020 Instructor
   - Black Hat USA Arsenal 2021 Speaker
+  - IPA Security camp 202 Instructor
 
 
 <!---
