@@ -1,7 +1,3 @@
-- Security Engineer
-  - Application Security
-  - Network Pentest
-
 - Events
   - SECCON 2015 Finals
   - Google Summer of Code 2017 Metasploit Project
