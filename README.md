@@ -7,7 +7,7 @@
   - AVTOKYO 2020 HIVE Speaker
   - Black Hat USA Arsenal 2020-2021 Speaker
   - Black Hat EUROPE Arsenal 2021-2022 Speaker
-  - IPA Security camp 2020-2021 Instructor
+  - IPA Security camp 2020-2021/2023 Instructor
 
 
 <!---
