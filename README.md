@@ -1,7 +1,7 @@
 # Hi there 👋
 
 - Events
-  - IPA Security camp 2020-2021/2023 Instructor
+  - IPA Security camp 2020-2021/2023-2024 Instructor
   - Black Hat EUROPE Arsenal 2021-2022 Speaker
   - Black Hat USA Arsenal 2020-2021 Speaker
   - AVTOKYO 2020 HIVE Speaker
